@@ -9,3 +9,4 @@ Tut on YT!
 ## Local Development
 
 1. Open index.
+have fun
